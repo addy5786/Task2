@@ -104,16 +104,4 @@ if __name__ == "__main__":
                 continue
     except Exception as e:
         print("Something went wrong. Please check . !!!")
-
-# list of books
-
-Harry Potter series by J.K. Rowling  
-The Hunger Games by Suzanne Collins  
-To Kill a Mockingbird by Harper Lee  
-Percy Jackson series by Rick Riordan  
-The Fault in Our Stars by John Green  
-1984 by George Orwell  
-The Maze Runner by James Dashner  
-Divergent by Veronica Roth  
-The Great Gatsby by F. Scott Fitzgerald  
-Wonder by R.J. Palacio  
+  
